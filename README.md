@@ -28,6 +28,10 @@
   Dual-model fallback system (**Flash 2.0 → Flash 1.5**) with smart rate-limiting handling.
 
 ---
+## Contributors
+- Garima
+- Saumya Dwivedi
+
 
 ## 📸 Project Gallery
 
@@ -77,9 +81,7 @@ REACT_APP_API_URL=http://localhost:8000
 npm install
 npm start
 
-## Contributors
-- Garima
-- Saumya Dwivedi
+
 
 
 
